@@ -94,3 +94,4 @@ while key!=ESC:
 curses.endwin() # destroys thee game window
 print(f"Final Score = {score}")
 
+# need to make it more realistic by not letting the snake move backwards on itself
